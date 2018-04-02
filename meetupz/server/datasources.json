@@ -1,0 +1,12 @@
+{
+  "mongoDS": {
+    "host": "",
+    "port": 27017,
+    "url": "mongodb://loopback:loopback@cluster0-shard-00-00-othr8.mongodb.net:27017,cluster0-shard-00-01-othr8.mongodb.net:27017,cluster0-shard-00-02-othr8.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin",
+    "database": "Cluster0",
+    "password": "loopback",
+    "name": "mongoDS",
+    "user": "loopback",
+    "connector": "mongodb"
+  }
+}
